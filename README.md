@@ -32,10 +32,7 @@
 <h2></h2>
 
  <!-- END CONTIBUTORS-->  
-<!--Wakatime
- <h3>Wakatime</h3>   
- <p dir="auto"><a href="https://wakatime.com/@Richy"><img src="https://github.com/richy00/richy00/raw/main/images/stat.svg" alt="wakatime-stats" style="max-width: 100%;"></a></p>    
-<!--End Wakatime-->   
+
     
 <!--follow me-->    
 
