@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richy00
 - 👀 I’m interested in the web development
-- 🌱 I’m currently learning javascript, react.js, php, and three.js
+- 🌱 I’m currently learning javascript, angular, php, and three.js
 - 💞️ I’m looking to collaborate on web project or web app
 - 📫 How to reach me : I am in twitter and telegram
 
