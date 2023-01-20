@@ -24,6 +24,7 @@
   <h2>Follow me</h2>
  <p align="left">
    <a href="https://twitter.com/MbiamouRichy" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="css3"  style="max-width: 100%;"></a>
+      <a href="https://www.linkedin.com/in/richy-mbiamou-4265ab241/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="css3"  style="max-width: 100%;"></a>
  </p>
  <!--End follow me-->
     
