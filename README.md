@@ -1,10 +1,7 @@
 <div class="Box mt-4">
   <div class="Box-body p-4">
 <!-- h2 begin  -->  
-
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-<h2 align="center"><b>Hello👋</b><img src="./assets/borderseparator.gif" width="100%"/></h2>
+<h2><b>Hello👋</b></h2>
 <!--h2 End-->
     
 <!--h3 begin-->    
