@@ -1,7 +1,7 @@
 <div class="Box mt-4">
   <div class="Box-body p-4">
 <!-- h2 begin  -->  
-<h2><b>Hello👋</b></h2>
+<h2><strong>Hello👋</strong></h2>
 <!--h2 End-->
     
 <!--h3 begin-->    
