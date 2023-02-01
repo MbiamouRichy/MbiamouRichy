@@ -10,8 +10,16 @@
     
 <!--Liste i'm frontend dev -->    
 <ul>
-<li>🌴 I am a <b>Frontend Developer</b></li>
-<li>📫 Find out more about me <a href="https://twitter.com/MbiamouRichy">HERE</a></li>
+<li>* 🌴 I am a <b>Frontend Developer</b></li>
+<li>* 🌳 I’m currently learning TypeScript, Php and AngularJS!<li>
+
+<li>* 🐾 I’m looking to network and make friends here!</li>
+
+<li>* 🌊 2023 Goals: Learn React and VueJS and Contribute to Open Source Projects.<li>
+
+<li>* ☕ Interest: Science, Physic, Coffee, and Coding.</li>
+
+<li>* :octocat: Hobbies: Sleeping, Reading, Anime, Manga, Gaming, and Facebook.</li>
 </ul>   
  <h2></h2>
 
@@ -20,7 +28,7 @@
  
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-<h2 align="center"><b>Contributors</b> 
+<h2 align="center"><b>Contributions</b> 
  <img src="./assets/borderseparator.gif" width="100%"/>
 </h2>
 <p dir="auto"><a href="#"><img src="./assets/contributions.svg" style="max-width: 100%;"></a></p>
@@ -39,9 +47,10 @@
 <h2 align="center"><b>Follow me</b>
 <img src="./assets/borderseparator.gif" width="100%"/>
 </h2>
- <p>
+ <p align="center">
    <a href="https://twitter.com/MbiamouRichy" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="css3"  style="max-width: 100%;"></a>
       <a href="https://www.linkedin.com/in/richy-mbiamou-4265ab241/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="css3"  style="max-width: 100%;"></a>
+       <a href="https://www.linkedin.com/in/richy-mbiamou-4265ab241/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" alt="css3"  style="max-width: 100%;"></a>
  </p>
  <h2></h2>
  <!--End follow me-->
