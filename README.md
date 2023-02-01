@@ -4,18 +4,21 @@
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-<h2><b>Hello👋</b><img src="./assets/borderseparator.gif" width="100%"/></h2>
+<h2 align="center"><b>Hello👋</b><img src="./assets/borderseparator.gif" width="100%"/></h2>
 <!--h2 End-->
     
 <!--h3 begin-->    
 <h3>I'm Mbiamou Richy ( <a href="https://twitter.com/MbiamouRichy" rel="nofollow">Richy</a> )</h3>
 <!--End h3-->
+<h2></h2>
     
 <!--Liste i'm frontend dev -->    
 <ul>
 <li>🌴 I am a <b>Frontend Developer</b></li>
 <li>📫 Find out more about me <a href="https://twitter.com/MbiamouRichy">HERE</a></li>
 </ul>   
+ <h2></h2>
+
 <!--End liste-->
  <!-- contributors--> 
  
@@ -36,19 +39,20 @@
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-<h2><b>Follow me</b>
+<h2 align="center"><b>Follow me</b>
 <img src="./assets/borderseparator.gif" width="100%"/>
 </h2>
  <p>
    <a href="https://twitter.com/MbiamouRichy" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="css3"  style="max-width: 100%;"></a>
       <a href="https://www.linkedin.com/in/richy-mbiamou-4265ab241/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="css3"  style="max-width: 100%;"></a>
  </p>
+ <h2></h2>
  <!--End follow me-->
     
 <!-- Languages-->    
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-<h2><b>Languages and Tools:</b>
+<h2 align="center"><b>Languages and Tools</b>
 <img src="./assets/borderseparator.gif" width="100%"/>
 </h2>
 
