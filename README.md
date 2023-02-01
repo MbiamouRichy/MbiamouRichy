@@ -10,7 +10,6 @@
 <!--h3 begin-->    
 <h3>I'm Mbiamou Richy ( <a href="https://twitter.com/MbiamouRichy" rel="nofollow">Richy</a> )</h3>
 <!--End h3-->
-<h2></h2>
     
 <!--Liste i'm frontend dev -->    
 <ul>
@@ -27,8 +26,9 @@
 <h2 align="center"><b>Contributors</b> 
  <img src="./assets/borderseparator.gif" width="100%"/>
 </h2>
+<p dir="auto"><a href="#"><img src="./assets/contributions.svg" style="max-width: 100%;"></a></p>
+<h2></h2>
 
-<br> 
  <!-- END CONTIBUTORS-->  
 <!--Wakatime
  <h3>Wakatime</h3>   
