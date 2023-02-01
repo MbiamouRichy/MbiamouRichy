@@ -12,13 +12,9 @@
 <ul>
 <li>* 🌴 I am a <b>Frontend Developer</b></li>
 <li>* 🌳 I’m currently learning TypeScript, Php and AngularJS!<li>
-
 <li>* 🐾 I’m looking to network and make friends here!</li>
-
 <li>* 🌊 2023 Goals: Learn React and VueJS and Contribute to Open Source Projects.<li>
-
 <li>* ☕ Interest: Science, Physic, Coffee, and Coding.</li>
-
 <li>* :octocat: Hobbies: Sleeping, Reading, Anime, Manga, Gaming, and Facebook.</li>
 </ul>   
  <h2></h2>
