@@ -46,7 +46,7 @@
  <p align="center">
    <a href="https://twitter.com/MbiamouRichy" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="css3"  style="max-width: 100%;"></a>
       <a href="https://www.linkedin.com/in/richy-mbiamou-4265ab241/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="css3"  style="max-width: 100%;"></a>
-       <a href="https://web.facebook.com/people/Richy-Mbiamou/100082337867992" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" alt="css3"  style="max-width: 100%;"></a>
+       <a href="https://www.facebook.com/profile.php?id=100082337867992" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" alt="css3"  style="max-width: 100%;"></a>
  </p>
  <h2></h2>
  <!--End follow me-->
