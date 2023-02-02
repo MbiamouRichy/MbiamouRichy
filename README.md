@@ -15,7 +15,7 @@
 * 🐾 I’m looking to network and make friends here!
 * 🌊 2023 Goals: Learn React and VueJS and Contribute to Open Source Projects
 * ☕ Interest: Science, Physic, Coffee, and Coding.
-* :octocat: Hobbies: Sleeping, Reading, Anime, Manga, Gaming, and Facebook.
+* :octocat: Hobbies: Sleeping, Reading, Anime, Manga, Gaming, and Code.
   
  <h2></h2>
 
