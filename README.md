@@ -3,7 +3,7 @@
 <!-- h2 begin  -->  
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-<h2 align="center"><b>Hello <img src="./assets/main.svg"width="16px"/></b>
+<h2 align="center"><b>Hello <img src="./assets/main.svg"width="25px"/></b>
 <img src="./assets/borderseparator.gif" width="100%"/>
 </h2>
 <!--h2 End-->
