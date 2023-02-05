@@ -1,7 +1,11 @@
 <div class="Box mt-4">
   <div class="Box-body p-4">
 <!-- h2 begin  -->  
-<h2><strong>Hello👋</strong></h2>
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+<h2 align="center"><b>Hello👋</b>
+<img src="./assets/borderseparator.gif" width="100%"/>
+</h2>
 <!--h2 End-->
     
 <!--h3 begin-->    
@@ -27,7 +31,7 @@
 <h2 align="center"><b>Contributions</b> 
  <img src="./assets/borderseparator.gif" width="100%"/>
 </h2>
-<p dir="auto"><a href="#"><img src="./assets/contributions.svg" style="max-width: 100%;"></a></p>
+<p align="center"><a href="#"><img src="./assets/contributions.svg" style="max-width: 100%;"></a></p>
 <h2></h2>
 
  <!-- END CONTIBUTORS-->  
@@ -59,7 +63,7 @@
 </h2>
 
 
-<p align="left" dir="auto"> <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.figma.com/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width: 100%;"> </a> <a href="https://git-scm.com/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a> <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"> </a>  <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>  <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://firebase.google.com/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;"> </a> <a href="https://angular.io" rel="nofollow"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" style="max-width: 100%;"> </a>
+<p align="center" dir="auto"> <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.figma.com/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width: 100%;"> </a> <a href="https://git-scm.com/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a> <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"> </a>  <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>  <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://firebase.google.com/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;"> </a> <a href="https://angular.io" rel="nofollow"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" style="max-width: 100%;"> </a>
     <a href="https://www.php.net" rel="nofollow"> <img  alt="php" width="40" height="40" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" style="max-width: 100%;"> </a>
     <a href="https://www.postman.com" rel="nofollow"> <img  alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"  style="max-width: 100%;"> </a>
       <a href="https://www.mysql.com/" rel="nofollow"> <img  alt="postman" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40"  style="max-width: 100%;"> </a>
