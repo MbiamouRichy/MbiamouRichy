@@ -9,7 +9,7 @@
 <!--h2 End-->
     
 <!--h3 begin-->    
-<h3>I'm Mbiamou Rich ( <a href="https://twitter.com/MbiamouRichy" rel="nofollow">Richy</a> )</h3>
+<h3>I'm Mbiamou Richy ( <a href="https://twitter.com/MbiamouRichy" rel="nofollow">Richy</a> )</h3>
 <!--End h3-->
     
 <!--Liste i'm frontend dev -->    
