@@ -9,19 +9,16 @@
 <!--h2 End-->
     
 <!--h3 begin-->    
-<h3>I'm Mbiamou Richy ( <a href="https://twitter.com/MbiamouRichy" rel="nofollow">Richy</a> )</h3>
+<h3>I'm Mbiamou Richy</h3>
 <!--End h3-->
     
 <!--Liste i'm frontend dev -->    
-
 * 🌴 I am a <b>Frontend Developer</b>
 * 🌳 I’m currently learning TypeScript, Php and AngularJS!
 * 🐾 I’m looking to network and make friends here!
 * 🌊 2023 Goals: Learn React and VueJS and Contribute to Open Source Projects
 * ☕ Interest: Science, Physic, Coffee, and Coding.
 * :octocat: Hobbies: Sleeping, Reading, Anime, Manga, Gaming, and Code.
-  
- <h2></h2>
 
 <!--End liste-->
  <!-- contributors--> 
