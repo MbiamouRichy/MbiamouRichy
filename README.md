@@ -16,7 +16,7 @@
 * 🌴 I am a <b>Frontend Developer</b>
 * 🌳 I’m currently learning TypeScript, Php and AngularJS!
 * 🐾 I’m looking to network and make friends here!
-* 🌊 2023 Goals: Learn React and VueJS and Contribute to Open Source Projects
+* 🌊 2023 Goals: Learn Nest Js and VueJS and Contribute to Open Source Projects
 * ☕ Interest: Science, Physic, Coffee, and Coding.
 * :octocat: Hobbies: Sleeping, Reading, Anime, Manga, Gaming, and Code.
 
@@ -50,7 +50,7 @@
        <a href="https://www.facebook.com/profile.php?id=100082337867992" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" alt="css3"  style="max-width: 100%;"></a>
  </p>
  <h2></h2>
- 
+
  <!--End follow me-->
     
 <!-- Languages-->    
