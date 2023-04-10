@@ -14,7 +14,7 @@
     
 <!--Liste i'm frontend dev -->    
 * 🌴 I am a <b>Frontend Developer</b>
-* 🌳 I’m currently learning TypeScript, Php and AngularJS!
+* 🌳 I’m currently learning TailwindCSS and Three.JS!
 * 🐾 I’m looking to network and make friends here!
 * 🌊 2023 Goals: Learn Nest Js and VueJS and Contribute to Open Source Projects
 * ☕ Interest: Science, Physic, Coffee, and Coding.
@@ -74,6 +74,7 @@
     <a href="https://www.postman.com" rel="nofollow"> <img  alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"  style="max-width: 100%;"> </a>
       <a href="https://www.mysql.com/" rel="nofollow"> <img  alt="postman" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40"  style="max-width: 100%;"> </a>
     <a href="https://threejs.org/" rel="nofollow"><img  alt="three.js" src="./assets/images.png" width="40" height="40"  style="max-width: 100%;"> </a>
+   <a href="https://getbootstrap.com/" rel="nofollow"><img  alt="Bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40" height="40"  style="max-width: 100%;"> </a>
 </p>
 <!--ENd languages-->
     
