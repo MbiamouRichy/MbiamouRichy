@@ -16,7 +16,7 @@
 * 🌴 I am a <b>Frontend Developer</b>
 * 🌳 I’m currently learning TailwindCSS and Three.JS!
 * 🐾 I’m looking to network and make friends here!
-* 🌊 2023 Goals: Learn Nest Js and VueJS and Contribute to Open Source Projects
+* 🌊 2023 Goals: Learn Nest Js or VueJS and Contribute to Open Source Projects
 * ☕ Interest: Science, Physic, Coffee, and Coding.
 * :octocat: Hobbies: Sleeping, Reading, Anime, Manga, Gaming, and Code.
 
