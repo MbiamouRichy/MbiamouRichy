@@ -52,9 +52,9 @@
 <img src="./assets/borderseparator.gif" width="100%"/>
 </h2>
  <p align="center">
-   <a href="https://twitter.com/MbiamouRichy" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="css3"  style="max-width: 100%;"></a>
-      <a href="https://www.linkedin.com/in/richy-mbiamou-4265ab241/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="css3"  style="max-width: 100%;"></a>
-       <a href="https://www.facebook.com/profile.php?id=100082337867992" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" alt="css3"  style="max-width: 100%;"></a>
+   <a href="https://twitter.com/MbiamouRichy" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" alt="twitter"  style="max-width: 100%;"></a>
+      <a href="https://www.linkedin.com/in/richy-mbiamou-4265ab241/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="linkedin"  style="max-width: 100%;"></a>
+       <a href="https://www.youtube.com/@MbiamouRichy" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" alt="youtube"  style="max-width: 100%;"></a>
  </p>
  <h2></h2>
 
