@@ -30,19 +30,7 @@
 </h2>
 <p align="center"><a href="#"><img src="./assets/contributions.svg" style="max-width: 100%;"></a></p>
 <h2></h2>
- <!-- END CONTIBUTORS-->  
-<!------ My Wakatime --------->
- <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-<h2 align="center"><b>My Wakatime</b>
-   <img src="./assets/borderseparator.gif" width="100%"/>
-</h2>
-
-  <a href="https://wakatime.com/@richy">
-    <img style="max-width: 100%; max-height: 80%; width: 100%" src="https://wakatime.com/share/@Richy/290f966e-0707-414c-944a-fea1204bad96.png">
-   </a>
-<h2></h2>
-<!---------------- End Wakatime ------------>    
+ <!-- END CONTIBUTORS-->   
     
 <!------------------follow me------------------->    
 
