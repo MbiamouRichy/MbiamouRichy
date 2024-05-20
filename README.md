@@ -14,9 +14,9 @@
     
 <!--Liste i'm frontend dev -->    
 * 🌴 I am a <b>Frontend Developer</b>
-* 🌳 I’m currently learning TailwindCSS and Three.JS!
+* 🌳 I’m currently learning react three fiber and react native!
 * 🐾 I’m looking to network and make friends here!
-* 🌊 2023 Goals: Learn VueJS and Contribute to Open Source Projects
+* 🌊 2024 Goals: Learn business and Contribute to Open Source Projects
 * ☕ Interest: Science, Physic, Coffee, and Coding.
 * :octocat: Hobbies: Sleeping, Reading, Anime, Manga, Gaming, and Code.
 
